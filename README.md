@@ -1,2 +1,3 @@
 # metmac.github.io
-To be deployed soon™️
+Built with Parcel.js and TailwindCSS.
+Pretty barebones atm.

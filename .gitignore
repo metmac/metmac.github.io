@@ -86,8 +86,6 @@ out
 .nuxt
 dist
 *compiled.js
-*.js.map
-*.css.map
 
 
 # Gatsby files
